@@ -1,7 +1,4 @@
 entries:
-  - title: hello
-    entries:
-      - title: My name is Ted Dorfeuille
   - title: all posts
     post_list:
       limit: 5
